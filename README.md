@@ -1,3 +1,2 @@
-# Compiler Design (18CSC304J)
+# Compiler Design (21CSC304J)
 
-![](index.png)
